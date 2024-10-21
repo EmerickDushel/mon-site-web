@@ -56,7 +56,7 @@ params:
   title: "Emerick DUSHIMIRIMANA"
   description: "Consultant en cybersécurité GRC"
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/logo.png"
+  favicon: "/logo_final.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -127,9 +127,9 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Bonjour, je suis"
+    intro: "Hello, je suis"
     title: "Emerick,"
-    subtitle: "Ingénieur cybersécurité GRC"
+    subtitle: "Consultant cybersécurité GRC"
     content: "Doté d'une forte appétence pour la sécurité informatique, je mets mon savoir-faire et mon engagement au service de la protection des systèmes d'information."
     image: /images/photo-profil.jpg
     bottomImage:
@@ -181,13 +181,13 @@ params:
   # Experiences
   experience:
     enable: true
-    title: "EXPÉRIENCES"
+    title: "Expériences"
     items:
       
       - job: "Ingénieur Cybersécurité GRC"
         company: "SBAA"
         companyUrl: "https://example.com"
-        date: "Sep 2023 - Aujourd'hui"
+        date: "Sep 2023 - present"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -247,7 +247,7 @@ params:
   # Education
   education:
     enable: true
-    title: "PARCOURS ACADEMIQUE"
+    title: "Scolarité"
     index: false
     items:
       - title: "Master Ingénieur Systèmes, réseaux et cybersécurité"
@@ -274,7 +274,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    title: "CERTIFICATIONS"
+    title: "Certifications"
     items:
       - title: CCNA (Cisco Certified Network Associate)
         content: Avec la certification CCNA, je possède les compétences nécessaires pour configurer, administrer et dépanner des réseaux Cisco, ainsi que pour assurer la sécurité et l'optimisation des infrastructures réseau.
@@ -296,7 +296,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "PROJETS RÉALISÉS"
+    title: "Projets"
     items:
       - title: Mise en place d'une station blanche
         content: En tant que chef de projet pour la mise en place d'une station blanche, j'ai piloté l'ensemble du projet de la conception à la livraison, en coordonnant des équipes pluridisciplinaires et en assurant une gestion efficace des ressources. J'ai mis en place des solutions sécurisées respectant les normes ISO 27001 et RGPD, tout en garantissant la livraison dans les délais et dans le respect du budget. J'ai supervisé les tests, rédigé la documentation technique, et contribué à réduire les risques de cyberattaques. Ce projet a permis d'améliorer la sécurité des données critiques et d'optimiser les processus internes.
@@ -320,22 +320,22 @@ params:
   #Contact
   contact:
     enable: true
-    title: "ME CONTACTER"
+    title: "Me contacter"
     content: Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, je ferai de mon mieux pour vous répondre !
     btnName: Envoyez moi un mail ici
-    btnLink: contact@emerickdushi.fr
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
-    #   messageRows: 5
+    btnLink: mailto:contact@emerickdushi.fr
+    #formspree:
+     #enable: true
+      #formId: xkgnnaen # Take it from your form's endpoint, like 'https://formspree.io/f/xkgnnaen'
+       #emailCaption: "Enter your email address"
+       #messageCaption: "Enter your message here"
+       #messageRows: 5
 
   footer:
     recentPosts:
       path: "blogs"
       count: 3
-      title: Recent Posts
+      title: Articles recents
       enable: true
       disableFeaturedImage: false
     socialNetworks:
@@ -343,7 +343,6 @@ params:
       linkedin: https://linkedin.com
       twitter: https://twitter.com
       instagram: https://instagram.com
-      facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
@@ -354,7 +353,7 @@ params:
     socialShare: true
     readTime:
       enable: true
-      content: "min read"
+      content: "minutes de lecture"
     scrollprogress:
       enable: true
     tags:
@@ -362,16 +361,16 @@ params:
 
   # For translations
   terms:
-    read: "Read"
-    toc: "Table Of Contents"
-    copyright: "All rights reserved"
-    pageNotFound: "Page not found"
-    emailText: "Check out this site"
+    read: "Lire"
+    toc: "Table des matières"
+    copyright: "Emerick Dushimirimana. Tous droits réservés"
+    pageNotFound: "Page non trouvé"
+    emailText: "Découvrez ce site"
 
   datesFormat:
-    article: "Jan 2, 2006"
-    articleList: "Jan 2, 2006"
-    articleRecent: "Jan 2, 2006"
+    article: "02 Jan 2006"
+    articleList: "02 Jan 2006"
+    articleRecent: "02 Jan 2006"
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
