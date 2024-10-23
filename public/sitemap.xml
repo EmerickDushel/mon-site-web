@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:4321/blogs/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2024-10-23T16:01:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2024-10-23T16:01:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blogs/meilleures-pratiques-cybersecurite-2024/</loc>
+    <lastmod>2024-10-23T16:01:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>

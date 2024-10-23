@@ -161,22 +161,29 @@ params:
     title: "A propos"
     image: "/images/photo-profil.jpg"
     content: |-
-      Actuellement en fin de formation de Master 2 en Cybersécurité et apprenti ingénieur en Cybersécurité GRC, j'assiste le RSSI dans la mise en place et la conformité du SMSI. 
-      Je suis à la recherche d'un CDI au sein d'une entreprise dynamique et innovante, prête à relever de nouveaux défis en matière de sécurité informatique. 
+      Consultant cybersécurité GRC, je m’appuie sur la rigueur, l’esprit d'analyse et l'adaptabilité pour sécuriser les systèmes d'information. Ma rigueur assure la conformité aux normes, mon esprit d'analyse anticipe les risques, et mon adaptabilité permet d'apporter des solutions innovantes. Mon ambition est de devenir une référence en cybersécurité. 
     skills:
       enable: true
       title: "Mes compétences:"
       items:
         - "ISO 27001"
+        - "KALI LINUX"
+        - "Centreon"
+        - "Python"
         - "ISO 27002"
+        - "WINDOWS SERVER"
+        - "GLPI"
+        - "Powershell"
         - "ISO 27005"
+        - "Vmware Vsphere"
+        - "bash"
         - "EBIOS RM"
+        - "Hyper-V"
+        - "SQL et PHP"
         - "TENACY"
         - "NIS2"
-        - "SIEM (SPLUNK)"
+        - "SIEM"
         - "TENABLE NESSUS"
-        - "KALI LINUX"
-        - "Python"
 
   # Experiences
   experience:
@@ -197,7 +204,7 @@ params:
         content: |
           Mes missions:
 
-          - Mise en œuvre de la PSSI
+          - Rédaction de la PSSI
           - Réalisation d’analyse de risque.
           - Réalisation des audits de sécurité interne
           - Mise en place d’un référentiel de gestion de crise
@@ -339,10 +346,10 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
+      github: https://github.com/dashboard
+      linkedin: https://www.linkedin.com/in/emerick-dushimirimana-b80415236/
+      twitter: https://x.com/dushel_emerick
+      instagram: https://www.instagram.com/emerick_dushel?igsh=MTNnNWU3bWVxZDB5Zw%3D%3D&utm_source=qr%20
 
   # List pages like blogs and posts
   listPages:

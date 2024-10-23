@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Détection Des Menaces on Emerick</title>
+    <link>http://localhost:4321/tags/d%C3%A9tection-des-menaces/</link>
+    <description>Recent content in Détection Des Menaces on Emerick</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 23 Oct 2024 16:45:12 +0200</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/d%C3%A9tection-des-menaces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment Siem Splunk Ameliore Detection Menaces</title>
+      <link>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</link>
+      <pubDate>Wed, 23 Oct 2024 16:45:12 +0200</pubDate>
+      <guid>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</guid>
+      <description>Introduction Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, les entreprises doivent mettre en place des solutions robustes pour assurer la sécurité de leurs systèmes d&amp;rsquo;information. Parmi ces solutions, les plateformes de Security Information and Event Management (SIEM), comme Splunk, occupent une place centrale. Elles offrent une approche proactive pour détecter, analyser et répondre aux menaces de manière automatisée.&#xA;Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue à améliorer la sécurité globale des entreprises, en réduisant les risques liés aux menaces internes et externes.</description>
+    </item>
+  </channel>
+</rss>
