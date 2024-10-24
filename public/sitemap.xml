@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:4321/blogs/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/cloud/</loc>
+    <loc>http://localhost:4321/tags/chiffrement/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</loc>
+    <loc>http://localhost:4321/categories/cloud/</loc>
+    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/cloud-computing/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/cybers%C3%A9curit%C3%A9/</loc>
@@ -17,16 +23,13 @@
     <loc>http://localhost:4321/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/gouvernance/</loc>
+    <loc>http://localhost:4321/tags/iam/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/meilleures-pratiques-cybersecurite-2024/</loc>
+    <loc>http://localhost:4321/tags/rgpd/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/post/</loc>
-    <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/r%C3%A9glementations/</loc>
+    <loc>http://localhost:4321/blogs/securite-donnees-environnements-cloud/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/s%C3%A9curit%C3%A9-des-donn%C3%A9es/</loc>
@@ -34,9 +37,6 @@
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blogs/</loc>
-    <lastmod>2024-10-23T16:45:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</loc>
     <lastmod>2024-10-23T16:45:12+02:00</lastmod>
@@ -52,6 +52,9 @@
   </url><url>
     <loc>http://localhost:4321/tags/splunk/</loc>
     <lastmod>2024-10-23T16:45:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</loc>
+    <lastmod>2024-10-23T16:36:36+02:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blogs/importance-iso-27005-gestion-risques/</loc>
     <lastmod>2024-10-23T16:36:36+02:00</lastmod>
@@ -73,20 +76,5 @@
   </url><url>
     <loc>http://localhost:4321/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
 </urlset>

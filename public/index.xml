@@ -6,8 +6,15 @@
     <description>Recent content on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Oct 2024 16:45:12 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sécuriser Les Données Dans Les Environnements Cloud</title>
+      <link>http://localhost:4321/blogs/securite-donnees-environnements-cloud/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blogs/securite-donnees-environnements-cloud/</guid>
+      <description>L&amp;rsquo;Importance de la Sécurité des Données dans les Environnements Cloud Introduction Avec l&amp;rsquo;essor rapide des services cloud, les entreprises adoptent de plus en plus ces environnements pour leur flexibilité, leur scalabilité et leur coût réduit. Cependant, la migration vers le cloud soulève de nombreuses questions liées à la sécurité des données. Dans cet article, nous explorerons les principales préoccupations de sécurité dans le cloud et les meilleures pratiques pour protéger les données sensibles dans ces environnements.</description>
+    </item>
     <item>
       <title>Comment Siem Splunk Ameliore Detection Menaces</title>
       <link>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</link>
@@ -35,13 +42,6 @@
       <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
       <guid>http://localhost:4321/gallery/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Hello R Markdown</title>
-      <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
   </channel>
 </rss>

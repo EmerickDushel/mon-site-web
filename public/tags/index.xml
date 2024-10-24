@@ -9,24 +9,31 @@
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cloud</title>
-      <link>http://localhost:4321/tags/cloud/</link>
+      <title>Chiffrement</title>
+      <link>http://localhost:4321/tags/chiffrement/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/cloud/</guid>
+      <guid>http://localhost:4321/tags/chiffrement/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cybersécurité</title>
-      <link>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</link>
+      <title>Cloud Computing</title>
+      <link>http://localhost:4321/tags/cloud-computing/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</guid>
+      <guid>http://localhost:4321/tags/cloud-computing/</guid>
       <description></description>
     </item>
     <item>
-      <title>Réglementations</title>
-      <link>http://localhost:4321/tags/r%C3%A9glementations/</link>
+      <title>IAM</title>
+      <link>http://localhost:4321/tags/iam/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/tags/r%C3%A9glementations/</guid>
+      <guid>http://localhost:4321/tags/iam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RGPD</title>
+      <link>http://localhost:4321/tags/rgpd/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/rgpd/</guid>
       <description></description>
     </item>
     <item>
@@ -65,6 +72,13 @@
       <description></description>
     </item>
     <item>
+      <title>Cybersécurité</title>
+      <link>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</link>
+      <pubDate>Wed, 23 Oct 2024 16:36:36 +0200</pubDate>
+      <guid>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ISO 27005</title>
       <link>http://localhost:4321/tags/iso-27005/</link>
       <pubDate>Wed, 23 Oct 2024 16:36:36 +0200</pubDate>
@@ -90,27 +104,6 @@
       <link>http://localhost:4321/tags/iso-27001/</link>
       <pubDate>Wed, 23 Oct 2024 16:01:54 +0200</pubDate>
       <guid>http://localhost:4321/tags/iso-27001/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plot</title>
-      <link>http://localhost:4321/tags/plot/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/tags/plot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R Markdown</title>
-      <link>http://localhost:4321/tags/r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Regression</title>
-      <link>http://localhost:4321/tags/regression/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/tags/regression/</guid>
       <description></description>
     </item>
   </channel>
