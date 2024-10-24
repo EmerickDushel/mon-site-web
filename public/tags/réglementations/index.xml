@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybersécurité on Emerick</title>
-    <link>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</link>
-    <description>Recent content in Cybersécurité on Emerick</description>
+    <title>Réglementations on Emerick</title>
+    <link>http://localhost:4321/tags/r%C3%A9glementations/</link>
+    <description>Recent content in Réglementations on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/r%C3%A9glementations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les Meilleures Pratiques De Cyber</title>
       <link>http://localhost:4321/post/meilleures-pratiques-cybersecurite-2024/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/post/meilleures-pratiques-cybersecurite-2024/</guid>
       <description>Introduction En 2024, la cybersécurité demeure l’une des préoccupations majeures des entreprises, des gouvernements et des particuliers. Les cyberattaques se sophistiquent, et avec l’évolution des technologies, la protection des systèmes d’information doit constamment être réévaluée. Dans cet article, nous allons explorer les meilleures pratiques de cybersécurité pour rester résilient face aux menaces modernes.&#xA;1- Comprendre l’évolution des cybermenaces en 2024 Le paysage des cyberattaques en 2024 se caractérise par une augmentation des attaques ciblées, notamment les ransomwares, les attaques par phishing avancé, et les intrusions dans les infrastructures critiques.</description>
-    </item>
-    <item>
-      <title>Importance Iso 27005 Gestion Risques Cybersecurite</title>
-      <link>http://localhost:4321/blogs/importance-iso-27005-gestion-risques/</link>
-      <pubDate>Wed, 23 Oct 2024 16:36:36 +0200</pubDate>
-      <guid>http://localhost:4321/blogs/importance-iso-27005-gestion-risques/</guid>
-      <description>Introduction Dans un contexte où les cyberattaques ne cessent de croître, la gestion des risques est devenue une priorité pour les entreprises et organisations. L&amp;rsquo;ISO 27005, une norme dédiée à la gestion des risques de sécurité de l&amp;rsquo;information, joue un rôle crucial dans la mise en place d&amp;rsquo;une stratégie de sécurité efficace.&#xA;Qu&amp;rsquo;est-ce que l&amp;rsquo;ISO 27005 ? L&amp;rsquo;ISO 27005 est une norme qui fournit des lignes directrices pour établir un processus de gestion des risques.</description>
     </item>
   </channel>
 </rss>

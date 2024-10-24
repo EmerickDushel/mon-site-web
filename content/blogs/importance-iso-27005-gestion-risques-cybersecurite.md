@@ -1,7 +1,7 @@
 ---
 title: "Importance Iso 27005 Gestion Risques Cybersecurite"
 date: 2024-10-23T16:36:36+02:00
-draft: true
+draft: false
 author: Emerick Dushimirimana
 tags:
 - ISO 27005
