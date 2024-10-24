@@ -12,7 +12,7 @@ tags:
   - Chiffrement
   - IAM
   - RGPD
-draft: yes
+draft: no
 image: /images/cloud-securite.jpg
 description: "A voir"
 toc: ~
