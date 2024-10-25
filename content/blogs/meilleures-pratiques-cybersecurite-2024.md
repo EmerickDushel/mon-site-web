@@ -1,5 +1,5 @@
 ---
-title: "Meilleures Pratiques Cybersécurité 2024"
+title: "Meilleures Pratiques de Cybersécurité en 2024"
 date: 2024-10-23T16:01:54+02:00
 draft: false
 author: Emerick Dushimirimana

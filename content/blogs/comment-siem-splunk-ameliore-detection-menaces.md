@@ -1,5 +1,5 @@
 ---
-title: "Comment Siem Splunk Ameliore Detection Menaces"
+title: "Comment le SIEM Splunk améliore la détection des menaces"
 date: 2024-10-23T16:45:12+02:00
 draft: false
 author: Emerick Dushimirimana

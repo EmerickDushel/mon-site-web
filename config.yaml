@@ -143,8 +143,8 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
+        #- icon: fab fa-github
+          #url: https://example.com
         - icon: fab fa-x-twitter
           url: https://x.com/dushel_emerick
         - icon: fab fa-youtube
