@@ -1205,6 +1205,7 @@ Emerick
     </div>
 </section>
 
+
 <section id="contact" class="py-5">
     <div class="container">
         <h3 class="text-center">Me contacter</h3>
@@ -1214,17 +1215,21 @@ Emerick
                     <div class="text-center">
                         Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, je ferai de mon mieux pour vous répondre !
                     </div>
+
                     
-                    <div class="text-center pt-3">
-                        <a 
-                            href='
-                                    mailto:contact@emerickdushi.fr
-                                  '
-                            target="_blank"
-                            class="btn"
-                        >
-                            Envoyez moi un mail ici
-                        </a>
+                    
+                    <div class="row justify-content-center">
+                        <form id="contact-form" action="https://formspree.io/f/mbljlegb" onsubmit="handleFormspreeSubmit(event)" method="POST" class="col-md-7">
+                            <div class="form-group pt-3">
+                                <input type="email" class="form-control" name="email" required="true" placeholder='Entrez votre adresse mail'>
+                            </div>
+                            <div class="form-group pt-3">
+                                <textarea class="form-control" name="message" required="true" placeholder='Entrez votre message ici' rows="5"></textarea>
+                            </div>
+                            <div class="form-group text-center pt-3">
+                                <button type="submit" class="btn btn-primary">Envoyez</button>
+                            </div>
+                        </form>
                     </div>
                     
                 </div>
@@ -1233,6 +1238,21 @@ Emerick
     </div>
     <div id="contact-form-status"></div>
 </section>
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="check-circle-fill" viewBox="0 0 16 16">
+    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+  </symbol>
+  <symbol id="info-fill" viewBox="0 0 16 16">
+    <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"/>
+  </symbol>
+  <symbol id="exclamation-triangle-fill" viewBox="0 0 16 16">
+    <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
+  </symbol>
+</svg>
+
 
 
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
@@ -1268,7 +1288,7 @@ Emerick
                         <h5 class="card-title bg-transparent" title="Sécuriser Les Données Dans Les Environnements Cloud">Sécuriser Les Données Dans Les Environnements Cloud</h5>
                     </a>
                     <div class="card-text secondary-font">
-                        <p>L&rsquo;Importance de la Sécurité des Données dans les Environnements Cloud Introduction Avec l&rsquo;essor rapide des services cloud, les entreprises adoptent de plus en plus ces environnements pour leur flexibilité, leur scalabilité et leur coût réduit. Cependant, la migration vers le cloud soulève de nombreuses questions liées à la sécurité des données. Dans cet article, nous explorerons les principales préoccupations de sécurité dans le cloud et les meilleures pratiques pour protéger les données sensibles dans ces environnements.</p>
+                        <p>L&rsquo;Importance de la Sécurité des Données dans les Environnements Cloud Introduction Avec …</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
@@ -1290,8 +1310,7 @@ Emerick
                         <h5 class="card-title bg-transparent" title="Comment Siem Splunk Ameliore Detection Menaces">Comment Siem Splunk Ameliore Detection Menaces</h5>
                     </a>
                     <div class="card-text secondary-font">
-                        <p>Introduction Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, les entreprises doivent mettre en place des solutions robustes pour assurer la sécurité de leurs systèmes d&rsquo;information. Parmi ces solutions, les plateformes de Security Information and Event Management (SIEM), comme Splunk, occupent une place centrale. Elles offrent une approche proactive pour détecter, analyser et répondre aux menaces de manière automatisée.
-Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue à améliorer la sécurité globale des entreprises, en réduisant les risques liés aux menaces internes et externes.</p>
+                        <p>Introduction Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, …</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
@@ -1313,8 +1332,7 @@ Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue 
                         <h5 class="card-title bg-transparent" title="Importance Iso 27005 Gestion Risques Cybersecurite">Importance Iso 27005 Gestion Risques Cybersecurite</h5>
                     </a>
                     <div class="card-text secondary-font">
-                        <p>Introduction Dans un contexte où les cyberattaques ne cessent de croître, la gestion des risques est devenue une priorité pour les entreprises et organisations. L&rsquo;ISO 27005, une norme dédiée à la gestion des risques de sécurité de l&rsquo;information, joue un rôle crucial dans la mise en place d&rsquo;une stratégie de sécurité efficace.
-Qu&rsquo;est-ce que l&rsquo;ISO 27005 ? L&rsquo;ISO 27005 est une norme qui fournit des lignes directrices pour établir un processus de gestion des risques.</p>
+                        <p>Introduction Dans un contexte où les cyberattaques ne cessent de croître, la gestion des risques est …</p>
                     </div>
                 </div>
                 <div class="mt-auto card-footer">
