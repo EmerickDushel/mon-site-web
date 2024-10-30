@@ -193,7 +193,7 @@ params:
       
       - job: "Ingénieur Cybersécurité GRC"
         company: "SBAA"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.saintbrieuc-armor-agglo.bzh/"
         date: "Sep 2023 - present"
         featuredLink:
           enable: false
