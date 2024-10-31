@@ -6,14 +6,21 @@
     <description>Recent content in SIEM on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Oct 2024 16:45:12 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/siem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gestion Des Incidents De Cybersécurité : Bonnes Pratiques</title>
+      <link>http://localhost:4321/blogs/gestion-incidents-cybersecurite/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blogs/gestion-incidents-cybersecurite/</guid>
+      <description>Face à la multiplication des cyberattaques, une bonne gestion des incidents est devenue un pilier de la cybersécurité. Cet article vous présente les bonnes pratiques pour une réponse efficace et une réduction de l’impact des incidents de sécurité.&#xA;1. Mettre en Place une Équipe de Réponse aux Incidents (CSIRT) L&amp;rsquo;équipe de réponse aux incidents, ou CSIRT, est responsable de l&amp;rsquo;analyse et de la gestion des cyberattaques. Pour être efficace, elle doit :</description>
+    </item>
     <item>
       <title>Comment le SIEM Splunk améliore la détection des menaces</title>
       <link>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</link>
       <pubDate>Wed, 23 Oct 2024 16:45:12 +0200</pubDate>
       <guid>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</guid>
-      <description>Introduction Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, les entreprises doivent mettre en place des solutions robustes pour assurer la sécurité de leurs systèmes d&amp;rsquo;information. Parmi ces solutions, les plateformes de Security Information and Event Management (SIEM), comme Splunk, occupent une place centrale. Elles offrent une approche proactive pour détecter, analyser et répondre aux menaces de manière automatisée.&#xA;Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue à améliorer la sécurité globale des entreprises, en réduisant les risques liés aux menaces internes et externes.</description>
+      <description>Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, les entreprises doivent mettre en place des solutions robustes pour assurer la sécurité de leurs systèmes d&amp;rsquo;information. Parmi ces solutions, les plateformes de Security Information and Event Management (SIEM), comme Splunk, occupent une place centrale. Elles offrent une approche proactive pour détecter, analyser et répondre aux menaces de manière automatisée.&#xA;Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue à améliorer la sécurité globale des entreprises, en réduisant les risques liés aux menaces internes et externes.</description>
     </item>
   </channel>
 </rss>
