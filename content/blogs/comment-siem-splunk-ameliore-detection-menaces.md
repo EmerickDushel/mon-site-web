@@ -13,7 +13,7 @@ image: /images/splunk.jpg
 description: ""
 toc: true
 ---
-## Introduction
+
 Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, les entreprises doivent mettre en place des solutions robustes pour assurer la sécurité de leurs systèmes d'information. Parmi ces solutions, les plateformes de **Security Information and Event Management (SIEM)**, comme **Splunk**, occupent une place centrale. Elles offrent une approche proactive pour détecter, analyser et répondre aux menaces de manière automatisée.
 
 Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue à améliorer la sécurité globale des entreprises, en réduisant les risques liés aux menaces internes et externes.

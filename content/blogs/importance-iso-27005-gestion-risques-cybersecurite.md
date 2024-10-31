@@ -12,7 +12,7 @@ image: /images/iso27005.jpg
 description: ""
 toc: true
 ---
-## Introduction
+
 Dans un contexte où les **cyberattaques** sont en constante augmentation, la gestion des risques est devenue une **priorité absolue** pour les entreprises et les organisations. C’est ici que l’ISO 27005 intervient : cette norme, dédiée à la gestion des risques de sécurité de l'information, joue un rôle crucial dans la mise en place d'une stratégie de sécurité **efficace** et **adaptée aux menaces actuelles**.
 
 ## Qu'est-ce que l'ISO 27005 ?
