@@ -155,5 +155,19 @@
       <guid>http://localhost:4321/tags/iso-27001/</guid>
       <description></description>
     </item>
+    <item>
+      <title>GRC</title>
+      <link>http://localhost:4321/tags/grc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/grc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PSSI</title>
+      <link>http://localhost:4321/tags/pssi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/tags/pssi/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

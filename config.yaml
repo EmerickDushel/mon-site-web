@@ -305,13 +305,20 @@ params:
     enable: true
     title: "Projets"
     items:
+      - title: Mise en place de CISO Assistance sur mon VPS
+        content: CISO Assistant est une solution GRC conçue pour simplifier la gestion des risques, la conformité réglementaire et les audits de sécurité. Disponible en version open source (community) et payante, elle s'adapte aux besoins variés des organisations en quête d'efficacité et de transparence. J'ai déployé la version community sur mon serveur pour centraliser ces activités et optimiser les processus liés à la cybersécurité.
+        image: /images/projects/logo_ciso-assistant.png
+        featured:
+          name: Demo
+          link: https://ciso.emerickdushi.fr:8443/
+      
       - title: Mise en place d'une station blanche
         content: En tant que chef de projet pour la mise en place d'une station blanche, j'ai piloté l'ensemble du projet de la conception à la livraison, en coordonnant des équipes pluridisciplinaires et en assurant une gestion efficace des ressources. J'ai mis en place des solutions sécurisées respectant les normes ISO 27001 et RGPD, tout en garantissant la livraison dans les délais et dans le respect du budget. J'ai supervisé les tests, rédigé la documentation technique, et contribué à réduire les risques de cyberattaques. Ce projet a permis d'améliorer la sécurité des données critiques et d'optimiser les processus internes.
         image: /images/projects/station blanche.png
 
       - title: Mise en place de Passbolt 
         content: J'ai déployé le gestionnaire de mots de passe Passbolt avec Docker sur un VPS Ionos, assurant une solution sécurisée et scalable pour la gestion des identifiants. Accessible via https://pwd.emerickdushi.fr, ce projet incluait la configuration complète du système et l'optimisation des performances via conteneurs, tout en respectant les meilleures pratiques de sécurité. Cette solution a amélioré la gestion des accès et renforcé la sécurité des données sensibles de l'équipe.
-        image: /images/projects/passbolt-g.jpg
+        image: /images/projects/passbolt-hd-logo.png
         featured:
           name: Demo
           link: https://pwd.emerickdushi.fr/
@@ -322,7 +329,7 @@ params:
     
       - title: Script de revue des droits utilisateur
         content: J'ai développé un script intégrant Bash, SQL et HTML pour automatiser la revue d'habilitation des utilisateurs. Ce script récupère tous les mots de passe dont un utilisateur est propriétaire, liste les utilisateurs avec lesquels ces mots de passe sont partagés, détaille les droits associés, et affiche l'arborescence de chaque mot de passe. Cette solution permet une vue complète et détaillée des accès et des permissions liés aux mots de passe dans l'organisation.
-        image: /images/projects/iso27002.png
+        image: /images/projects/scripting_revu_habilitation passbolt.png
 
   #Contact
   contact:
