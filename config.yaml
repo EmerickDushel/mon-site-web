@@ -54,7 +54,7 @@ Menus:
 
 params:
   title: "Emerick DUSHIMIRIMANA"
-  description: "Consultant en cybersécurité GRC"
+  description: "Ingénieur en cybersécurité"
   # staticPath: ""  # The path to serve the static files from
   favicon: "/logo_final.png"
 
@@ -129,7 +129,7 @@ params:
     enable: true
     intro: "Hello, je suis"
     title: "Emerick,"
-    subtitle: "Consultant cybersécurité GRC"
+    subtitle: "Ingénieuren Cybersécurité"
     content: "Doté d'une forte appétence pour la sécurité informatique, je mets mon savoir-faire et mon engagement au service de la protection des systèmes d'information."
     image: /images/photo-profil.jpg
     bottomImage:
@@ -161,7 +161,7 @@ params:
     title: "A propos"
     image: "/images/photo-profil.jpg"
     content: |-
-      Consultant cybersécurité GRC, je m’appuie sur la rigueur, l’esprit d'analyse et l'adaptabilité pour sécuriser les systèmes d'information. Ma rigueur assure la conformité aux normes, mon esprit d'analyse anticipe les risques, et mon adaptabilité permet d'apporter des solutions innovantes. Mon ambition est de devenir une référence en cybersécurité. 
+      Ingénieur en cybersécurité, je m’appuie sur la rigueur, l’esprit d'analyse et l'adaptabilité pour sécuriser les systèmes d'information. Ma rigueur assure la conformité aux normes, mon esprit d'analyse anticipe les risques, et mon adaptabilité permet d'apporter des solutions innovantes. Mon ambition est de devenir une référence en cybersécurité. 
     skills:
       enable: true
       title: "Mes compétences:"
