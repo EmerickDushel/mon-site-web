@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SMSI on Emerick</title>
+    <link>http://localhost:4321/tags/smsi/</link>
+    <description>Recent content in SMSI on Emerick</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/smsi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C’est quoi la norme ISO 27001 ?</title>
+      <link>http://localhost:4321/blogs/norme-iso-27001/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/blogs/norme-iso-27001/</guid>
+      <description>&lt;p&gt;La norme &lt;strong&gt;ISO 27001&lt;/strong&gt; est aujourd’hui la référence internationale en matière de gestion de la sécurité de l’information. Utilisée par des milliers d’organisations dans le monde, elle fournit un cadre structuré permettant de protéger les données, réduire les risques et instaurer un environnement de confiance. Mais concrètement, que contient cette norme et pourquoi est-elle devenue indispensable ?&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-iso-27001--une-norme-dédiée-à-la-sécurité-de-linformation&#34;&gt;1. ISO 27001 : une norme dédiée à la sécurité de l’information&lt;/h2&gt;&#xA;&lt;p&gt;La norme ISO 27001 définit les exigences pour mettre en place un &lt;strong&gt;Système de Management de la Sécurité de l’Information (SMSI)&lt;/strong&gt;.&lt;br&gt;&#xA;Son objectif principal est d’aider les organisations à :&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

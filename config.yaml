@@ -21,7 +21,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
 Menus:
   main:
     - identifier: blog
@@ -56,7 +55,7 @@ params:
   title: "Emerick DUSHIMIRIMANA"
   description: "Ingénieur en cybersécurité"
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/logo_final.png"
+  favicon: "/logo_final1.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -190,11 +189,11 @@ params:
     enable: true
     title: "Expériences"
     items:
-      
+     
       - job: "Ingénieur Cybersécurité GRC"
         company: "SBAA"
         companyUrl: "https://www.saintbrieuc-armor-agglo.bzh/"
-        date: "Sep 2023 - present"
+        date: "Oct 2022 - Dec 2024"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -355,8 +354,7 @@ params:
     socialNetworks:
       github: https://github.com/dashboard
       linkedin: https://www.linkedin.com/in/emerick-dushimirimana-b80415236/
-      twitter: https://x.com/dushel_emerick
-      instagram: https://www.instagram.com/emerick_dushel?igsh=MTNnNWU3bWVxZDB5Zw%3D%3D&utm_source=qr%20
+
 
   # List pages like blogs and posts
   listPages:
