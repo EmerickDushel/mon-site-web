@@ -256,11 +256,11 @@ params:
     title: "Scolarité"
     index: false
     items:
-      - title: "Master Ingénieur Systèmes, réseaux et cybersécurité"
+      - title: "Ms Ingénieur Systèmes, réseaux et cybersécurité"
         school:
           name: "Institut Européen de Formation en Ingénierie Informatique (IEF2I)"
           url: "https://ief2i-education.com/"
-        date: "2022 - 2024"
+        date: "2022 - 2023"
       - title: "Ingénieur des travaux : Informatique et Réseau"
         school: 
           name: "Ecole Nationale Supérieure des Postes, des Télécoms et des TIC"
