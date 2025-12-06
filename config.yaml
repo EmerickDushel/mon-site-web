@@ -193,7 +193,7 @@ params:
       - job: "Ingénieur Cybersécurité GRC"
         company: "SBAA"
         companyUrl: "https://www.saintbrieuc-armor-agglo.bzh/"
-        date: "Oct 2022 - Dec 2024"
+        date: "Oct 2022 - Dec 2023"
         featuredLink:
           enable: false
           url: "https://example.com"
