@@ -256,26 +256,16 @@ params:
     title: "Scolarité"
     index: false
     items:
-      - title: "Ms Ingénieur Systèmes, réseaux et cybersécurité"
+      - title: "Master spécialisé Ingénieur Systèmes, réseaux et cybersécurité"
         school:
           name: "Institut Européen de Formation en Ingénierie Informatique (IEF2I)"
           url: "https://ief2i-education.com/"
         date: "2022 - 2023"
-      - title: "Ingénieur des travaux : Informatique et Réseau"
+      - title: "Ingénieur Systèmes & Réseaux"
         school: 
           name: "Ecole Nationale Supérieure des Postes, des Télécoms et des TIC"
           url: "https://e-supptic.cm/"
-        date: "2018 - 2021"
-
-      - title: "Baccalauréat Scientifique"
-        school:
-          name: "Séminaire Saint-Paul"
-          url: ""
-        date: "2018"
-        #GPA: "4.2 out of 5.0"
-        #featuredLink:
-          #enable: true
-          #url: "https://example.com"
+        date: "2016 - 2021"
 
   # Achievements
   achievements:
