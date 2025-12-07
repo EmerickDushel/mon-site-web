@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cybersécurité on Emerick</title>
-    <link>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</link>
+    <link>http://localhost:7417/tags/cybers%C3%A9curit%C3%A9/</link>
     <description>Recent content in Cybersécurité on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7417/tags/cybers%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C’est quoi la norme ISO 27001 ?</title>
-      <link>http://localhost:4321/blogs/norme-iso-27001/</link>
+      <link>http://localhost:7417/blogs/norme-iso-27001/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blogs/norme-iso-27001/</guid>
+      <guid>http://localhost:7417/blogs/norme-iso-27001/</guid>
       <description>&lt;p&gt;La norme &lt;strong&gt;ISO 27001&lt;/strong&gt; est aujourd’hui la référence internationale en matière de gestion de la sécurité de l’information. Utilisée par des milliers d’organisations dans le monde, elle fournit un cadre structuré permettant de protéger les données, réduire les risques et instaurer un environnement de confiance. Mais concrètement, que contient cette norme et pourquoi est-elle devenue indispensable ?&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-iso-27001--une-norme-dédiée-à-la-sécurité-de-linformation&#34;&gt;1. ISO 27001 : une norme dédiée à la sécurité de l’information&lt;/h2&gt;&#xA;&lt;p&gt;La norme ISO 27001 définit les exigences pour mettre en place un &lt;strong&gt;Système de Management de la Sécurité de l’Information (SMSI)&lt;/strong&gt;.&lt;br&gt;&#xA;Son objectif principal est d’aider les organisations à :&lt;/p&gt;</description>
     </item>
     <item>
       <title>L’importance de la conformité réglementaire en cybersécurité</title>
-      <link>http://localhost:4321/blogs/conformite-reglementaire/</link>
+      <link>http://localhost:7417/blogs/conformite-reglementaire/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blogs/conformite-reglementaire/</guid>
+      <guid>http://localhost:7417/blogs/conformite-reglementaire/</guid>
       <description>&lt;p&gt;Dans un contexte où les cybermenaces évoluent rapidement, les organisations doivent adopter une approche structurée pour protéger leurs systèmes d’information. La conformité réglementaire joue un rôle essentiel en fournissant un cadre permettant de gérer les risques, garantir la protection des données et renforcer la confiance des parties prenantes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-pourquoi-la-conformité-est-elle-indispensable-&#34;&gt;1. Pourquoi la conformité est-elle indispensable ?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a--assurer-la-protection-des-données&#34;&gt;a- Assurer la protection des données&lt;/h3&gt;&#xA;&lt;p&gt;Les réglementations telles que le &lt;strong&gt;RGPD&lt;/strong&gt; imposent un ensemble d’obligations visant à encadrer la collecte, le stockage et le traitement des données personnelles. Le non-respect de ces exigences expose les organisations à des sanctions financières importantes ainsi qu’à une dégradation de leur image.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Politique de Sécurité des Systèmes d&#39;Information (PSSI)</title>
-      <link>http://localhost:4321/blogs/pssi/</link>
+      <link>http://localhost:7417/blogs/pssi/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blogs/pssi/</guid>
+      <guid>http://localhost:7417/blogs/pssi/</guid>
       <description>&lt;p&gt;La &lt;strong&gt;Politique de Sécurité des Systèmes d’Information (PSSI)&lt;/strong&gt; est un document stratégique qui définit les orientations et les règles pour assurer la sécurité des systèmes d’information d’une organisation. Élaborée par la Direction en collaboration avec le Responsable de la Sécurité des Systèmes d’Information (RSSI), la PSSI est essentielle pour protéger les actifs numériques et garantir la conformité réglementaire.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pourquoi-une-pssi-est-elle-essentielle-&#34;&gt;Pourquoi une PSSI est-elle essentielle ?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Protéger les actifs numériques&lt;/strong&gt; :&#xA;Les systèmes d&amp;rsquo;information contiennent des données critiques : financières, personnelles, ou liées à la propriété intellectuelle. Une PSSI bien conçue assure leur confidentialité, leur intégrité et leur disponibilité.&lt;/p&gt;</description>
     </item>
     <item>
       <title>L&#39;mportance de l&#39;iso 27005: Gestion des Risques Cybersécurité</title>
-      <link>http://localhost:4321/blogs/importance-iso-27005-gestion-risques/</link>
+      <link>http://localhost:7417/blogs/importance-iso-27005-gestion-risques/</link>
       <pubDate>Wed, 23 Oct 2024 16:36:36 +0200</pubDate>
-      <guid>http://localhost:4321/blogs/importance-iso-27005-gestion-risques/</guid>
+      <guid>http://localhost:7417/blogs/importance-iso-27005-gestion-risques/</guid>
       <description>&lt;p&gt;Dans un contexte où les &lt;strong&gt;cyberattaques&lt;/strong&gt; sont en constante augmentation, la gestion des risques est devenue une &lt;strong&gt;priorité absolue&lt;/strong&gt; pour les entreprises et les organisations. C’est ici que l’ISO 27005 intervient : cette norme, dédiée à la gestion des risques de sécurité de l&amp;rsquo;information, joue un rôle crucial dans la mise en place d&amp;rsquo;une stratégie de sécurité &lt;strong&gt;efficace&lt;/strong&gt; et &lt;strong&gt;adaptée aux menaces actuelles&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quest-ce-que-liso-27005-&#34;&gt;Qu&amp;rsquo;est-ce que l&amp;rsquo;ISO 27005 ?&lt;/h2&gt;&#xA;&lt;p&gt;L’ISO 27005 est une norme qui fournit des &lt;strong&gt;lignes directrices spécifiques&lt;/strong&gt; pour établir un processus de gestion des risques. Elle vient en complément de l&amp;rsquo;ISO 27001, offrant un cadre &lt;strong&gt;structuré&lt;/strong&gt; pour :&lt;/p&gt;</description>
     </item>
   </channel>

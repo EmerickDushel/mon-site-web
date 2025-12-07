@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud on Emerick</title>
-    <link>http://localhost:4321/categories/cloud/</link>
+    <link>http://localhost:7417/categories/cloud/</link>
     <description>Recent content in Cloud on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7417/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sécuriser Les Données Dans Les Environnements Cloud</title>
-      <link>http://localhost:4321/blogs/securite-donnees-environnements-cloud/</link>
+      <link>http://localhost:7417/blogs/securite-donnees-environnements-cloud/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blogs/securite-donnees-environnements-cloud/</guid>
+      <guid>http://localhost:7417/blogs/securite-donnees-environnements-cloud/</guid>
       <description>&lt;p&gt;Avec l&amp;rsquo;essor rapide des services cloud, les entreprises adoptent de plus en plus ces environnements pour leur flexibilité, leur scalabilité et leur coût réduit. Cependant, la migration vers le cloud soulève de nombreuses questions liées à la sécurité des données. Dans cet article, nous explorerons les principales préoccupations de sécurité dans le cloud et les meilleures pratiques pour protéger les données sensibles dans ces environnements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-les-défis-de-la-sécurité-dans-le-cloud&#34;&gt;1. Les défis de la sécurité dans le cloud&lt;/h2&gt;&#xA;&lt;p&gt;Les environnements cloud, qu&amp;rsquo;ils soient publics, privés ou hybrides, offrent une infrastructure distribuée qui rend la gestion des données complexe. Les entreprises doivent relever les défis suivants :&lt;/p&gt;</description>
     </item>
   </channel>

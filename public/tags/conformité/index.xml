@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conformité on Emerick</title>
-    <link>http://localhost:4321/tags/conformit%C3%A9/</link>
+    <link>http://localhost:7417/tags/conformit%C3%A9/</link>
     <description>Recent content in Conformité on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/conformit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7417/tags/conformit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L’importance de la conformité réglementaire en cybersécurité</title>
-      <link>http://localhost:4321/blogs/conformite-reglementaire/</link>
+      <link>http://localhost:7417/blogs/conformite-reglementaire/</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blogs/conformite-reglementaire/</guid>
+      <guid>http://localhost:7417/blogs/conformite-reglementaire/</guid>
       <description>&lt;p&gt;Dans un contexte où les cybermenaces évoluent rapidement, les organisations doivent adopter une approche structurée pour protéger leurs systèmes d’information. La conformité réglementaire joue un rôle essentiel en fournissant un cadre permettant de gérer les risques, garantir la protection des données et renforcer la confiance des parties prenantes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-pourquoi-la-conformité-est-elle-indispensable-&#34;&gt;1. Pourquoi la conformité est-elle indispensable ?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a--assurer-la-protection-des-données&#34;&gt;a- Assurer la protection des données&lt;/h3&gt;&#xA;&lt;p&gt;Les réglementations telles que le &lt;strong&gt;RGPD&lt;/strong&gt; imposent un ensemble d’obligations visant à encadrer la collecte, le stockage et le traitement des données personnelles. Le non-respect de ces exigences expose les organisations à des sanctions financières importantes ainsi qu’à une dégradation de leur image.&lt;/p&gt;</description>
     </item>
   </channel>

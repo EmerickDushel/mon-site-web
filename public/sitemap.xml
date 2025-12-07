@@ -2,139 +2,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/blogs/</loc>
+    <loc>http://localhost:7417/blogs/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/norme-iso-27001/</loc>
+    <loc>http://localhost:7417/blogs/norme-iso-27001/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>http://localhost:7417/categories/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/conformit%C3%A9/</loc>
+    <loc>http://localhost:7417/tags/conformit%C3%A9/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/cybers%C3%A9curit%C3%A9/</loc>
+    <loc>http://localhost:7417/tags/cybers%C3%A9curit%C3%A9/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>http://localhost:7417/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/gouvernance-et-conformit%C3%A9/</loc>
+    <loc>http://localhost:7417/categories/gouvernance-et-conformit%C3%A9/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/grc/</loc>
+    <loc>http://localhost:7417/tags/grc/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/iso-27001/</loc>
+    <loc>http://localhost:7417/tags/iso-27001/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/conformite-reglementaire/</loc>
+    <loc>http://localhost:7417/blogs/conformite-reglementaire/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/smsi/</loc>
+    <loc>http://localhost:7417/tags/smsi/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>http://localhost:7417/tags/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/pssi/</loc>
+    <loc>http://localhost:7417/blogs/pssi/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/pssi/</loc>
+    <loc>http://localhost:7417/tags/pssi/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/s%C3%A9curit%C3%A9-des-syst%C3%A8mes-dinformation/</loc>
+    <loc>http://localhost:7417/categories/s%C3%A9curit%C3%A9-des-syst%C3%A8mes-dinformation/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/cyberattaque/</loc>
+    <loc>http://localhost:7417/tags/cyberattaque/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/cybers%C3%A9curit%C3%A9/</loc>
+    <loc>http://localhost:7417/categories/cybers%C3%A9curit%C3%A9/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/gestion-des-incidents/</loc>
+    <loc>http://localhost:7417/categories/gestion-des-incidents/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/gestion-incidents-cybersecurite/</loc>
+    <loc>http://localhost:7417/blogs/gestion-incidents-cybersecurite/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/gouvernance/</loc>
+    <loc>http://localhost:7417/tags/gouvernance/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/r%C3%A9ponse-aux-incidents/</loc>
+    <loc>http://localhost:7417/tags/r%C3%A9ponse-aux-incidents/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/siem/</loc>
+    <loc>http://localhost:7417/tags/siem/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/surveillance/</loc>
+    <loc>http://localhost:7417/tags/surveillance/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/ameliorer-cybersecurite-entreprise/</loc>
+    <loc>http://localhost:7417/blogs/ameliorer-cybersecurite-entreprise/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/bonnes-pratiques/</loc>
+    <loc>http://localhost:7417/tags/bonnes-pratiques/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/formation/</loc>
+    <loc>http://localhost:7417/tags/formation/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/gestion-des-mots-de-passe/</loc>
+    <loc>http://localhost:7417/tags/gestion-des-mots-de-passe/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/gouvernance/</loc>
+    <loc>http://localhost:7417/categories/gouvernance/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/s%C3%A9curit%C3%A9-des-donn%C3%A9es/</loc>
+    <loc>http://localhost:7417/tags/s%C3%A9curit%C3%A9-des-donn%C3%A9es/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/chiffrement/</loc>
+    <loc>http://localhost:7417/tags/chiffrement/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/cloud/</loc>
+    <loc>http://localhost:7417/categories/cloud/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/cloud-computing/</loc>
+    <loc>http://localhost:7417/tags/cloud-computing/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/iam/</loc>
+    <loc>http://localhost:7417/tags/iam/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/rgpd/</loc>
+    <loc>http://localhost:7417/tags/rgpd/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/securite-donnees-environnements-cloud/</loc>
+    <loc>http://localhost:7417/blogs/securite-donnees-environnements-cloud/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</loc>
+    <loc>http://localhost:7417/blogs/comment-siem-splunk-ameliore-detection-menaces/</loc>
     <lastmod>2024-10-23T16:45:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/d%C3%A9tection-des-menaces/</loc>
+    <loc>http://localhost:7417/tags/d%C3%A9tection-des-menaces/</loc>
     <lastmod>2024-10-23T16:45:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/log-management/</loc>
+    <loc>http://localhost:7417/tags/log-management/</loc>
     <lastmod>2024-10-23T16:45:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/splunk/</loc>
+    <loc>http://localhost:7417/tags/splunk/</loc>
     <lastmod>2024-10-23T16:45:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/iso-27005/</loc>
+    <loc>http://localhost:7417/tags/iso-27005/</loc>
     <lastmod>2024-10-23T16:36:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/importance-iso-27005-gestion-risques/</loc>
+    <loc>http://localhost:7417/blogs/importance-iso-27005-gestion-risques/</loc>
     <lastmod>2024-10-23T16:36:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/risques/</loc>
+    <loc>http://localhost:7417/tags/risques/</loc>
     <lastmod>2024-10-23T16:36:36+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/gestion-des-risques/</loc>
+    <loc>http://localhost:7417/tags/gestion-des-risques/</loc>
     <lastmod>2024-10-23T16:01:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blogs/meilleures-pratiques-cybersecurite/</loc>
+    <loc>http://localhost:7417/blogs/meilleures-pratiques-cybersecurite/</loc>
     <lastmod>2024-10-23T16:01:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/gallery/</loc>
+    <loc>http://localhost:7417/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url>
 </urlset>

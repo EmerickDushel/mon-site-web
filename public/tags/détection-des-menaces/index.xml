@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Détection Des Menaces on Emerick</title>
-    <link>http://localhost:4321/tags/d%C3%A9tection-des-menaces/</link>
+    <link>http://localhost:7417/tags/d%C3%A9tection-des-menaces/</link>
     <description>Recent content in Détection Des Menaces on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 23 Oct 2024 16:45:12 +0200</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/d%C3%A9tection-des-menaces/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7417/tags/d%C3%A9tection-des-menaces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comment le SIEM Splunk améliore la détection des menaces</title>
-      <link>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</link>
+      <link>http://localhost:7417/blogs/comment-siem-splunk-ameliore-detection-menaces/</link>
       <pubDate>Wed, 23 Oct 2024 16:45:12 +0200</pubDate>
-      <guid>http://localhost:4321/blogs/comment-siem-splunk-ameliore-detection-menaces/</guid>
+      <guid>http://localhost:7417/blogs/comment-siem-splunk-ameliore-detection-menaces/</guid>
       <description>&lt;p&gt;Dans un environnement où les cyberattaques deviennent de plus en plus sophistiquées, les entreprises doivent mettre en place des solutions robustes pour assurer la sécurité de leurs systèmes d&amp;rsquo;information. Parmi ces solutions, les plateformes de &lt;strong&gt;Security Information and Event Management (SIEM)&lt;/strong&gt;, comme &lt;strong&gt;Splunk&lt;/strong&gt;, occupent une place centrale. Elles offrent une approche proactive pour détecter, analyser et répondre aux menaces de manière automatisée.&lt;/p&gt;&#xA;&lt;p&gt;Dans cet article, nous allons explorer comment un SIEM tel que Splunk contribue à améliorer la sécurité globale des entreprises, en réduisant les risques liés aux menaces internes et externes.&lt;/p&gt;</description>
     </item>
   </channel>

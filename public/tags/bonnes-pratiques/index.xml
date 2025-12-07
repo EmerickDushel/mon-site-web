@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonnes Pratiques on Emerick</title>
-    <link>http://localhost:4321/tags/bonnes-pratiques/</link>
+    <link>http://localhost:7417/tags/bonnes-pratiques/</link>
     <description>Recent content in Bonnes Pratiques on Emerick</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/tags/bonnes-pratiques/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:7417/tags/bonnes-pratiques/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Améliorer La Cybersécurité en Entreprise : Guide Des Bonnes Pratiques</title>
-      <link>http://localhost:4321/blogs/ameliorer-cybersecurite-entreprise/</link>
+      <link>http://localhost:7417/blogs/ameliorer-cybersecurite-entreprise/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blogs/ameliorer-cybersecurite-entreprise/</guid>
+      <guid>http://localhost:7417/blogs/ameliorer-cybersecurite-entreprise/</guid>
       <description>&lt;p&gt;La cybersécurité est devenue un enjeu majeur pour les entreprises, de la TPE au grand groupe. Aujourd’hui, un nombre croissant d’incidents montrent qu’aucune organisation n’est à l’abri. Dans cet article, je vous propose de découvrir les bonnes pratiques à adopter pour renforcer la sécurité de votre entreprise face aux menaces cyber.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-comprendre-les-risques-propres-à-lentreprise&#34;&gt;1. Comprendre les Risques Propres à l’Entreprise&lt;/h2&gt;&#xA;&lt;p&gt;Avant de mettre en place des mesures de sécurité, il est crucial d&amp;rsquo;identifier les vulnérabilités et de bien comprendre les risques spécifiques auxquels votre entreprise fait face. Cela peut inclure :&lt;/p&gt;</description>
     </item>
   </channel>
